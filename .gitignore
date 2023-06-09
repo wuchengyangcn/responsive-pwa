@@ -1,4 +1,5 @@
 .DS_Store
+keynote/
 node_modules/
 ios/
 /dist/
