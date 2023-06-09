@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "responsive-pwa",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

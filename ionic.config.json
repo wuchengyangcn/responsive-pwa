@@ -1,0 +1,7 @@
+{
+  "name": "responsive-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
